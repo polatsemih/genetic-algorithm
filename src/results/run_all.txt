@@ -1,0 +1,16 @@
+From All Runs:
+Run 1 => Best Individual: 01100111, Fitness: 0.8051948051948052
+Run 2 => Best Individual: 01010111, Fitness: 0.7987012987012987
+Run 3 => Best Individual: 01100111, Fitness: 0.8051948051948052
+Run 4 => Best Individual: 01100111, Fitness: 0.8051948051948052
+Run 5 => Best Individual: 01100111, Fitness: 0.8051948051948052
+Run 6 => Best Individual: 01100111, Fitness: 0.8051948051948052
+Run 7 => Best Individual: 11001011, Fitness: 0.7987012987012987
+Run 8 => Best Individual: 01100111, Fitness: 0.8051948051948052
+Run 9 => Best Individual: 01100111, Fitness: 0.8051948051948052
+
+Best overall individual (S vector) and fitness value:
+Best Individual: 01100111, Fitness: 0.8051948051948052
+
+Individual with all features selected scenario (For compare purpose):
+Individual: 11111111, Fitness: 0.7792207792207793
