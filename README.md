@@ -1,6 +1,8 @@
 # genetic-algorithm
 Genetic Algorithm Implementation for Feature Selection on Pima Indians Diabetes Dataset
 
+Database: [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/mragpavank/diabetes/data)
+
 ---
 
 ## The best output:
